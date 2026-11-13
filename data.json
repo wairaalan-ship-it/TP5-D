@@ -1,0 +1,279 @@
+{
+  "site": {
+    "name": "Cielo Abierto",
+    "tagline": "Entendé el clima, preparate para el día.",
+    "notice": "Consultando datos meteorológicos en tiempo real. La página necesita conexión a internet."
+  },
+  "cities": {
+    "Buenos Aires": {
+      "region": "Argentina · Región Pampeana",
+      "temperature": 23,
+      "condition": "Parcialmente nublado",
+      "feels": 25,
+      "humidity": 64,
+      "wind": 14,
+      "rain": 20,
+      "sunrise": "06:02",
+      "sunset": "19:42",
+      "high": 26,
+      "low": 18,
+      "days": [
+        {
+          "day": "Hoy",
+          "icon": "☁",
+          "label": "Nubes y claros",
+          "high": 26,
+          "low": 18
+        },
+        {
+          "day": "Sáb",
+          "icon": "☀",
+          "label": "Soleado",
+          "high": 28,
+          "low": 19
+        },
+        {
+          "day": "Dom",
+          "icon": "🌦",
+          "label": "Chaparrones",
+          "high": 24,
+          "low": 17
+        },
+        {
+          "day": "Lun",
+          "icon": "☁",
+          "label": "Nublado",
+          "high": 22,
+          "low": 16
+        },
+        {
+          "day": "Mar",
+          "icon": "☀",
+          "label": "Despejado",
+          "high": 27,
+          "low": 18
+        },
+        {
+          "day": "Mié",
+          "icon": "🌤",
+          "label": "Algo de sol",
+          "high": 25,
+          "low": 17
+        }
+      ]
+    },
+    "Córdoba": {
+      "region": "Argentina · Región Centro",
+      "temperature": 27,
+      "condition": "Soleado",
+      "feels": 28,
+      "humidity": 48,
+      "wind": 11,
+      "rain": 5,
+      "sunrise": "06:18",
+      "sunset": "19:51",
+      "high": 30,
+      "low": 17,
+      "days": [
+        {
+          "day": "Hoy",
+          "icon": "☀",
+          "label": "Soleado",
+          "high": 30,
+          "low": 17
+        },
+        {
+          "day": "Sáb",
+          "icon": "☀",
+          "label": "Despejado",
+          "high": 31,
+          "low": 18
+        },
+        {
+          "day": "Dom",
+          "icon": "🌤",
+          "label": "Algo de sol",
+          "high": 29,
+          "low": 18
+        },
+        {
+          "day": "Lun",
+          "icon": "🌦",
+          "label": "Lluvias aisladas",
+          "high": 25,
+          "low": 16
+        },
+        {
+          "day": "Mar",
+          "icon": "☀",
+          "label": "Soleado",
+          "high": 28,
+          "low": 16
+        },
+        {
+          "day": "Mié",
+          "icon": "☁",
+          "label": "Nublado",
+          "high": 24,
+          "low": 15
+        }
+      ]
+    },
+    "Bariloche": {
+      "region": "Argentina · Patagonia",
+      "temperature": 12,
+      "condition": "Nublado",
+      "feels": 10,
+      "humidity": 72,
+      "wind": 22,
+      "rain": 35,
+      "sunrise": "06:14",
+      "sunset": "20:18",
+      "high": 15,
+      "low": 7,
+      "days": [
+        {
+          "day": "Hoy",
+          "icon": "☁",
+          "label": "Nublado",
+          "high": 15,
+          "low": 7
+        },
+        {
+          "day": "Sáb",
+          "icon": "🌧",
+          "label": "Lluvia débil",
+          "high": 13,
+          "low": 6
+        },
+        {
+          "day": "Dom",
+          "icon": "🌤",
+          "label": "Mejora",
+          "high": 16,
+          "low": 8
+        },
+        {
+          "day": "Lun",
+          "icon": "☀",
+          "label": "Soleado",
+          "high": 18,
+          "low": 9
+        },
+        {
+          "day": "Mar",
+          "icon": "☁",
+          "label": "Nublado",
+          "high": 14,
+          "low": 7
+        },
+        {
+          "day": "Mié",
+          "icon": "🌦",
+          "label": "Chaparrones",
+          "high": 12,
+          "low": 5
+        }
+      ]
+    },
+    "Rosario": {
+      "region": "Argentina · Litoral",
+      "temperature": 25,
+      "condition": "Cielo despejado",
+      "feels": 27,
+      "humidity": 58,
+      "wind": 9,
+      "rain": 10,
+      "sunrise": "06:08",
+      "sunset": "19:47",
+      "high": 29,
+      "low": 19,
+      "days": [
+        {
+          "day": "Hoy",
+          "icon": "☀",
+          "label": "Despejado",
+          "high": 29,
+          "low": 19
+        },
+        {
+          "day": "Sáb",
+          "icon": "🌤",
+          "label": "Parcialmente nublado",
+          "high": 28,
+          "low": 18
+        },
+        {
+          "day": "Dom",
+          "icon": "☁",
+          "label": "Nublado",
+          "high": 25,
+          "low": 17
+        },
+        {
+          "day": "Lun",
+          "icon": "🌧",
+          "label": "Lluvias",
+          "high": 23,
+          "low": 16
+        },
+        {
+          "day": "Mar",
+          "icon": "🌤",
+          "label": "Mejora",
+          "high": 26,
+          "low": 17
+        },
+        {
+          "day": "Mié",
+          "icon": "☀",
+          "label": "Soleado",
+          "high": 30,
+          "low": 19
+        }
+      ]
+    }
+  },
+  "skills": [
+    {
+      "category": "Diseño web",
+      "name": "Frontend Design",
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "description": "Ayuda a crear páginas con una identidad visual propia. Explica cómo elegir colores, tipografías y distribución según el tema, y cómo revisar el diseño antes de terminarlo.",
+      "example": "Se usa en la portada de Cielo Abierto: título principal, presentación del clima y secciones ordenadas.",
+      "sample": "<div class='mini-hero'><span>PRONÓSTICO</span><b>El cielo de hoy</b><i>Clima de tu ciudad</i></div>"
+    },
+    {
+      "category": "Fuentes y tipografía",
+      "name": "Typography System",
+      "repo": "https://github.com/SkillMedev/skills/tree/main/skills/typography-system",
+      "description": "Enseña a elegir y combinar fuentes, definir tamaños de títulos y textos, y mantener una jerarquía tipográfica clara para que la página sea fácil de leer.",
+      "example": "Se aplica en los títulos, temperaturas grandes y textos secundarios de la página.",
+      "sample": "<div class='mini-type'><b>23°</b><span>Temperatura actual</span><small>Se siente como 25°</small></div>"
+    },
+    {
+      "category": "Animaciones",
+      "name": "Web Animation Design",
+      "repo": "https://github.com/vercel-labs/open-agents/tree/main/.agents/skills/web-animation-design",
+      "description": "Reúne buenas prácticas para crear animaciones web suaves, con tiempos y movimientos adecuados, sin distraer ni hacer lenta la navegación.",
+      "example": "Se refleja en las transiciones suaves al cambiar de ciudad y actualizar los paneles del clima.",
+      "sample": "<div class='mini-motion'><span>☀ → ☁</span><b>Cambio suave</b></div>"
+    },
+    {
+      "category": "Componentes",
+      "name": "shadcn/ui Skill",
+      "repo": "https://github.com/shadcn-ui/ui/tree/main/skills",
+      "description": "Ofrece criterios para elegir y organizar componentes de interfaz, como botones, selectores, tarjetas, tablas, alertas y gráficos.",
+      "example": "Se aplica en el selector de ciudades y en las tarjetas de humedad, viento y lluvia.",
+      "sample": "<div class='mini-stats'><span>💧 Humedad <b>64%</b></span><span>💨 Viento <b>14 km/h</b></span></div>"
+    },
+    {
+      "category": "Gráficos",
+      "name": "Web Data Visualization",
+      "repo": "https://github.com/openai/plugins/tree/main/plugins/build-web-data-visualization/skills/data-visualization",
+      "description": "Ayuda a elegir gráficos claros y accesibles, presentar datos correctamente y adaptar las visualizaciones a pantallas grandes y celulares.",
+      "example": "Se usa en el gráfico de temperaturas máximas y mínimas de los próximos días.",
+      "sample": "<div class='mini-chart'><i style='height:45%'></i><i style='height:72%'></i><i style='height:58%'></i><i style='height:82%'></i><i style='height:61%'></i></div>"
+    }
+  ]
+}
